@@ -1,0 +1,40 @@
+NOTE* : NO ONE WILL EVER USER MASTER BRANCH. EVERYONE WILL USE THEIR OWN BRANCH
+ALWAYS MAKE A BRANCH FROM MASTER
+Name of Branch - User_Date_IntegrateSSH
+Name of Branch - User_Date_SSHCommandFactory
+
+Filename convention : smallletters.java
+
+/**
+ * @author User
+ * @details of the function
+ * @version V1
+ * @since ajkerDate
+ * @param param1
+ * @param param2
+ * @return
+ * @version V2 - Changes in version 2
+ * @author
+ * @date
+ */
+private void testFunction(String param1, String param2) {
+	/**
+	 * this for loop is user for bla bl blab l
+	 */
+	for (int i = 0; i < 5; i++) {
+
+	}
+}
+
+/*
+ * for code indenting
+ * Select all -> ctrl+i
+ * Select all -> ctrl+shift+f
+ */
+
+Note* : 
+	No commented code should be there
+	No unnecessary code should be there
+	No code without proper documentation should be submitted
+	Make Unit test of each java file where required
+	Indenting and clean code is must
